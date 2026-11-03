@@ -1,0 +1,131 @@
+{
+  "scenarios": [
+    {
+      "scenario_id": "baseline",
+      "name": "Baseline",
+      "description": "Current forecast as the reference scenario",
+      "base_scenario": null,
+      "assumptions": [],
+      "metadata": {
+        "type": "reference"
+      }
+    },
+    {
+      "scenario_id": "downside",
+      "name": "Downside Scenario",
+      "description": "Revenue pressure, compensation cost inflation, and slower collections",
+      "base_scenario": "baseline",
+      "assumptions": [
+        {
+          "assumption_name": "revenue_decline",
+          "target": {
+            "business_unit": "North America",
+            "department": "Sales & Marketing",
+            "financial_line": "revenue"
+          },
+          "change_type": "percentage",
+          "change_value": -0.10,
+          "driver": "customer_count",
+          "description": "Revenue falls by 10% due to lower customer demand"
+        },
+        {
+          "assumption_name": "compensation_increase",
+          "target": {
+            "business_unit": "North America",
+            "department": "Engineering & Product",
+            "financial_line": "compensation_expense"
+          },
+          "change_type": "percentage",
+          "change_value": 0.08,
+          "driver": "average_compensation",
+          "description": "Compensation costs increase by 8%"
+        },
+        {
+          "assumption_name": "collection_delay",
+          "target": {
+            "business_unit": "North America",
+            "department": "*",
+            "financial_line": "customer_collections"
+          },
+          "change_type": "percentage",
+          "change_value": -0.15,
+          "driver": "collection_period_days",
+          "description": "Customer collections slow, reducing near-term cash inflows"
+        }
+      ],
+      "metadata": {
+        "type": "stress_test"
+      }
+    },
+    {
+      "scenario_id": "upside",
+      "name": "Upside Scenario",
+      "description": "Better than expected performance with improved collections",
+      "base_scenario": "baseline",
+      "assumptions": [
+        {
+          "assumption_name": "revenue_growth",
+          "target": {
+            "business_unit": "North America",
+            "department": "Sales & Marketing",
+            "financial_line": "revenue"
+          },
+          "change_type": "percentage",
+          "change_value": 0.08,
+          "driver": "customer_count",
+          "description": "Revenue grows 8% above forecast"
+        },
+        {
+          "assumption_name": "collection_improvement",
+          "target": {
+            "business_unit": "North America",
+            "department": "*",
+            "financial_line": "customer_collections"
+          },
+          "change_type": "percentage",
+          "change_value": 0.10,
+          "driver": "collection_period_days",
+          "description": "Improved collections accelerate cash inflows"
+        }
+      ],
+      "metadata": {
+        "type": "optimistic"
+      }
+    },
+    {
+      "scenario_id": "expense_reduction",
+      "name": "Expense Reduction Scenario",
+      "description": "Targeted cost reduction to improve profitability",
+      "base_scenario": "baseline",
+      "assumptions": [
+        {
+          "assumption_name": "marketing_reduction",
+          "target": {
+            "business_unit": "North America",
+            "department": "Sales & Marketing",
+            "financial_line": "marketing_expense"
+          },
+          "change_type": "percentage",
+          "change_value": -0.15,
+          "driver": "marketing_spend",
+          "description": "Reduce marketing spend by 15%"
+        },
+        {
+          "assumption_name": "tech_efficiency",
+          "target": {
+            "business_unit": "North America",
+            "department": "Engineering & Product",
+            "financial_line": "technology_expense"
+          },
+          "change_type": "percentage",
+          "change_value": -0.12,
+          "driver": "cost_optimization",
+          "description": "Technology expense reduction through efficiency gains"
+        }
+      ],
+      "metadata": {
+        "type": "intervention"
+      }
+    }
+  ]
+}

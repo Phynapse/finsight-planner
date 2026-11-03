@@ -1,0 +1,73 @@
+# Gitignore
+
+## Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+.venv
+
+## Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+## Environment
+.env
+.env.local
+
+## Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+## Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## Data
+# Keep synthetic data tracked for portfolio demo
+# .csv files tracked as specified
+
+# Environment files
+.env.*
+!.env.example
+
+# Frontend build artifacts
+frontend/dist/
+frontend/.vite/
+
+# TypeScript build artifacts
+*.tsbuildinfo

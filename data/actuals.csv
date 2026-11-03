@@ -1,0 +1,236 @@
+period,business_unit,department,financial_line,amount,currency,data_status
+2024-01,North America,Sales & Marketing,revenue,850000,USD,actual
+2024-01,North America,Sales & Marketing,cogs,340000,USD,actual
+2024-01,North America,Sales & Marketing,compensation_expense,125000,USD,actual
+2024-01,North America,Sales & Marketing,marketing_expense,95000,USD,actual
+2024-01,North America,Sales & Marketing,technology_expense,15000,USD,actual
+2024-01,North America,Sales & Marketing,facilities_expense,12000,USD,actual
+2024-01,North America,Sales & Marketing,other_operating_expense,8000,USD,actual
+2024-01,North America,Engineering & Product,revenue,650000,USD,actual
+2024-01,North America,Engineering & Product,cogs,195000,USD,actual
+2024-01,North America,Engineering & Product,compensation_expense,210000,USD,actual
+2024-01,North America,Engineering & Product,marketing_expense,5000,USD,actual
+2024-01,North America,Engineering & Product,technology_expense,85000,USD,actual
+2024-01,North America,Engineering & Product,facilities_expense,15000,USD,actual
+2024-01,North America,Engineering & Product,other_operating_expense,7000,USD,actual
+2024-01,North America,Customer Success,revenue,420000,USD,actual
+2024-01,North America,Customer Success,cogs,126000,USD,actual
+2024-01,North America,Customer Success,compensation_expense,95000,USD,actual
+2024-01,North America,Customer Success,marketing_expense,8000,USD,actual
+2024-01,North America,Customer Success,technology_expense,12000,USD,actual
+2024-01,North America,Customer Success,facilities_expense,8000,USD,actual
+2024-01,North America,Customer Success,other_operating_expense,5000,USD,actual
+2024-02,North America,Sales & Marketing,revenue,870000,USD,actual
+2024-02,North America,Sales & Marketing,cogs,348000,USD,actual
+2024-02,North America,Sales & Marketing,compensation_expense,128000,USD,actual
+2024-02,North America,Sales & Marketing,marketing_expense,98000,USD,actual
+2024-02,North America,Sales & Marketing,technology_expense,16000,USD,actual
+2024-02,North America,Sales & Marketing,facilities_expense,12000,USD,actual
+2024-02,North America,Sales & Marketing,other_operating_expense,8500,USD,actual
+2024-02,North America,Engineering & Product,revenue,660000,USD,actual
+2024-02,North America,Engineering & Product,cogs,198000,USD,actual
+2024-02,North America,Engineering & Product,compensation_expense,218000,USD,actual
+2024-02,North America,Engineering & Product,marketing_expense,5500,USD,actual
+2024-02,North America,Engineering & Product,technology_expense,87000,USD,actual
+2024-02,North America,Engineering & Product,facilities_expense,15500,USD,actual
+2024-02,North America,Engineering & Product,other_operating_expense,7200,USD,actual
+2024-03,North America,Sales & Marketing,revenue,890000,USD,actual
+2024-03,North America,Sales & Marketing,cogs,356000,USD,actual
+2024-03,North America,Sales & Marketing,compensation_expense,130000,USD,actual
+2024-03,North America,Sales & Marketing,marketing_expense,100000,USD,actual
+2024-03,North America,Sales & Marketing,technology_expense,16500,USD,actual
+2024-03,North America,Sales & Marketing,facilities_expense,12500,USD,actual
+2024-03,North America,Sales & Marketing,other_operating_expense,8800,USD,actual
+2024-03,North America,Engineering & Product,revenue,680000,USD,actual
+2024-03,North America,Engineering & Product,cogs,204000,USD,actual
+2024-03,North America,Engineering & Product,compensation_expense,225000,USD,actual
+2024-03,North America,Engineering & Product,marketing_expense,5800,USD,actual
+2024-03,North America,Engineering & Product,technology_expense,89000,USD,actual
+2024-03,North America,Engineering & Product,facilities_expense,16000,USD,actual
+2024-06,North America,Engineering & Product,revenue,720000,USD,actual
+2024-06,North America,Engineering & Product,cogs,216000,USD,actual
+2024-06,North America,Engineering & Product,compensation_expense,245000,USD,actual
+2024-06,North America,Engineering & Product,marketing_expense,6500,USD,actual
+2024-06,North America,Engineering & Product,technology_expense,92000,USD,actual
+2024-06,North America,Engineering & Product,facilities_expense,17000,USD,actual
+2024-09,North America,Sales & Marketing,revenue,920000,USD,actual
+2024-09,North America,Sales & Marketing,cogs,368000,USD,actual
+2024-09,North America,Sales & Marketing,compensation_expense,142000,USD,actual
+2024-09,North America,Sales & Marketing,marketing_expense,108000,USD,actual
+2024-09,North America,Sales & Marketing,technology_expense,18500,USD,actual
+2024-09,North America,Sales & Marketing,facilities_expense,13500,USD,actual
+2024-09,North America,Sales & Marketing,other_operating_expense,9500,USD,actual
+2024-09,North America,Engineering & Product,revenue,750000,USD,actual
+2024-09,North America,Engineering & Product,cogs,225000,USD,actual
+2024-09,North America,Engineering & Product,compensation_expense,268000,USD,actual
+2024-09,North America,Engineering & Product,marketing_expense,7200,USD,actual
+2024-09,North America,Engineering & Product,technology_expense,98000,USD,actual
+2024-09,North America,Engineering & Product,facilities_expense,18000,USD,actual
+2024-12,North America,Sales & Marketing,revenue,950000,USD,actual
+2024-12,North America,Sales & Marketing,cogs,380000,USD,actual
+2024-12,North America,Sales & Marketing,compensation_expense,148000,USD,actual
+2024-12,North America,Sales & Marketing,marketing_expense,112000,USD,actual
+2024-12,North America,Sales & Marketing,technology_expense,19500,USD,actual
+2024-12,North America,Sales & Marketing,facilities_expense,14000,USD,actual
+2024-12,North America,Sales & Marketing,other_operating_expense,10000,USD,actual
+2024-12,North America,Engineering & Product,revenue,780000,USD,actual
+2024-12,North America,Engineering & Product,cogs,234000,USD,actual
+2024-12,North America,Engineering & Product,compensation_expense,285000,USD,actual
+2024-12,North America,Engineering & Product,marketing_expense,7800,USD,actual
+2024-12,North America,Engineering & Product,technology_expense,102000,USD,actual
+2024-12,North America,Engineering & Product,facilities_expense,19000,USD,actual
+2025-03,North America,Sales & Marketing,revenue,920000,USD,actual
+2025-03,North America,Sales & Marketing,cogs,368000,USD,actual
+2025-03,North America,Sales & Marketing,compensation_expense,152000,USD,actual
+2025-03,North America,Sales & Marketing,marketing_expense,105000,USD,actual
+2025-03,North America,Sales & Marketing,technology_expense,19000,USD,actual
+2025-03,North America,Sales & Marketing,facilities_expense,14500,USD,actual
+2025-03,North America,Sales & Marketing,other_operating_expense,9800,USD,actual
+2025-03,North America,Engineering & Product,revenue,760000,USD,actual
+2025-03,North America,Engineering & Product,cogs,228000,USD,actual
+2025-03,North America,Engineering & Product,compensation_expense,298000,USD,actual
+2025-03,North America,Engineering & Product,marketing_expense,8200,USD,actual
+2025-03,North America,Engineering & Product,technology_expense,108000,USD,actual
+2025-03,North America,Engineering & Product,facilities_expense,19500,USD,actual
+2025-06,North America,Sales & Marketing,revenue,900000,USD,actual
+2025-06,North America,Sales & Marketing,cogs,360000,USD,actual
+2025-06,North America,Sales & Marketing,compensation_expense,155000,USD,actual
+2025-06,North America,Sales & Marketing,marketing_expense,98000,USD,actual
+2025-06,North America,Sales & Marketing,technology_expense,18800,USD,actual
+2025-06,North America,Sales & Marketing,facilities_expense,14800,USD,actual
+2025-06,North America,Sales & Marketing,other_operating_expense,9700,USD,actual
+2025-06,North America,Engineering & Product,revenue,740000,USD,actual
+2025-06,North America,Engineering & Product,cogs,222000,USD,actual
+2025-06,North America,Engineering & Product,compensation_expense,312000,USD,actual
+2025-06,North America,Engineering & Product,marketing_expense,8500,USD,actual
+2025-06,North America,Engineering & Product,technology_expense,112000,USD,actual
+2025-06,North America,Engineering & Product,facilities_expense,20000,USD,actual
+2025-09,North America,Sales & Marketing,revenue,880000,USD,actual
+2025-09,North America,Sales & Marketing,cogs,352000,USD,actual
+2025-09,North America,Sales & Marketing,compensation_expense,158000,USD,actual
+2025-09,North America,Sales & Marketing,marketing_expense,92000,USD,actual
+2025-09,North America,Sales & Marketing,technology_expense,18600,USD,actual
+2025-09,North America,Sales & Marketing,facilities_expense,15000,USD,actual
+2025-09,North America,Sales & Marketing,other_operating_expense,9600,USD,actual
+2025-09,North America,Engineering & Product,revenue,720000,USD,actual
+2025-09,North America,Engineering & Product,cogs,216000,USD,actual
+2025-09,North America,Engineering & Product,compensation_expense,325000,USD,actual
+2025-09,North America,Engineering & Product,marketing_expense,8800,USD,actual
+2025-09,North America,Engineering & Product,technology_expense,116000,USD,actual
+2025-09,North America,Engineering & Product,facilities_expense,20500,USD,actual
+2025-12,North America,Sales & Marketing,revenue,870000,USD,actual
+2025-12,North America,Sales & Marketing,cogs,348000,USD,actual
+2025-12,North America,Sales & Marketing,compensation_expense,160000,USD,actual
+2025-12,North America,Sales & Marketing,marketing_expense,90000,USD,actual
+2025-12,North America,Sales & Marketing,technology_expense,18500,USD,actual
+2025-12,North America,Sales & Marketing,facilities_expense,15200,USD,actual
+2025-12,North America,Sales & Marketing,other_operating_expense,9500,USD,actual
+2025-12,North America,Engineering & Product,revenue,710000,USD,actual
+2025-12,North America,Engineering & Product,cogs,213000,USD,actual
+2025-12,North America,Engineering & Product,compensation_expense,335000,USD,actual
+2025-12,North America,Engineering & Product,marketing_expense,9000,USD,actual
+2025-12,North America,Engineering & Product,technology_expense,120000,USD,actual
+2025-12,North America,Engineering & Product,facilities_expense,21000,USD,actual
+2026-03,North America,Sales & Marketing,revenue,890000,USD,actual
+2026-03,North America,Sales & Marketing,cogs,356000,USD,actual
+2026-03,North America,Sales & Marketing,compensation_expense,162000,USD,actual
+2026-03,North America,Sales & Marketing,marketing_expense,92000,USD,actual
+2026-03,North America,Sales & Marketing,technology_expense,18800,USD,actual
+2026-03,North America,Sales & Marketing,facilities_expense,15400,USD,actual
+2026-03,North America,Sales & Marketing,other_operating_expense,9700,USD,actual
+2026-03,North America,Engineering & Product,revenue,730000,USD,actual
+2026-03,North America,Engineering & Product,cogs,219000,USD,actual
+2026-03,North America,Engineering & Product,compensation_expense,342000,USD,actual
+2026-03,North America,Engineering & Product,marketing_expense,9200,USD,actual
+2026-03,North America,Engineering & Product,technology_expense,122000,USD,actual
+2026-03,North America,Engineering & Product,facilities_expense,21200,USD,actual
+2026-06,North America,Sales & Marketing,revenue,910000,USD,actual
+2026-06,North America,Sales & Marketing,cogs,364000,USD,actual
+2026-06,North America,Sales & Marketing,compensation_expense,164000,USD,actual
+2026-06,North America,Sales & Marketing,marketing_expense,95000,USD,actual
+2026-06,North America,Sales & Marketing,technology_expense,19000,USD,actual
+2026-06,North America,Sales & Marketing,facilities_expense,15600,USD,actual
+2026-06,North America,Sales & Marketing,other_operating_expense,9800,USD,actual
+2026-06,North America,Engineering & Product,revenue,750000,USD,actual
+2026-06,North America,Engineering & Product,cogs,225000,USD,actual
+2026-06,North America,Engineering & Product,compensation_expense,348000,USD,actual
+2026-06,North America,Engineering & Product,marketing_expense,9500,USD,actual
+2026-06,North America,Engineering & Product,technology_expense,125000,USD,actual
+2026-06,North America,Engineering & Product,facilities_expense,21500,USD,actual
+2026-09,North America,Sales & Marketing,revenue,920000,USD,actual
+2026-09,North America,Sales & Marketing,cogs,368000,USD,actual
+2026-09,North America,Sales & Marketing,compensation_expense,165000,USD,actual
+2026-09,North America,Sales & Marketing,marketing_expense,97000,USD,actual
+2026-09,North America,Sales & Marketing,technology_expense,19200,USD,actual
+2026-09,North America,Sales & Marketing,facilities_expense,15800,USD,actual
+2026-09,North America,Sales & Marketing,other_operating_expense,9900,USD,actual
+2026-09,North America,Engineering & Product,revenue,760000,USD,actual
+2026-09,North America,Engineering & Product,cogs,228000,USD,actual
+2026-09,North America,Engineering & Product,compensation_expense,352000,USD,actual
+2026-09,North America,Engineering & Product,marketing_expense,9800,USD,actual
+2026-09,North America,Engineering & Product,technology_expense,127000,USD,actual
+2026-09,North America,Engineering & Product,facilities_expense,21800,USD,actual
+2024-01,Europe,Sales & Marketing,revenue,650000,USD,actual
+2024-01,Europe,Sales & Marketing,cogs,260000,USD,actual
+2024-01,Europe,Sales & Marketing,compensation_expense,95000,USD,actual
+2024-01,Europe,Sales & Marketing,marketing_expense,72000,USD,actual
+2024-01,Europe,Sales & Marketing,technology_expense,12000,USD,actual
+2024-01,Europe,Sales & Marketing,facilities_expense,10000,USD,actual
+2024-01,Europe,Sales & Marketing,other_operating_expense,6500,USD,actual
+2024-01,Europe,Engineering & Product,revenue,480000,USD,actual
+2024-01,Europe,Engineering & Product,cogs,144000,USD,actual
+2024-01,Europe,Engineering & Product,compensation_expense,155000,USD,actual
+2024-01,Europe,Engineering & Product,marketing_expense,4000,USD,actual
+2024-01,Europe,Engineering & Product,technology_expense,65000,USD,actual
+2024-01,Europe,Engineering & Product,facilities_expense,12000,USD,actual
+2024-01,Europe,Engineering & Product,other_operating_expense,5500,USD,actual
+2024-06,Europe,Engineering & Product,revenue,520000,USD,actual
+2024-06,Europe,Engineering & Product,cogs,156000,USD,actual
+2024-06,Europe,Engineering & Product,compensation_expense,178000,USD,actual
+2024-06,Europe,Engineering & Product,marketing_expense,4500,USD,actual
+2024-06,Europe,Engineering & Product,technology_expense,68000,USD,actual
+2024-06,Europe,Engineering & Product,facilities_expense,12800,USD,actual
+2024-12,Europe,Engineering & Product,revenue,560000,USD,actual
+2024-12,Europe,Engineering & Product,cogs,168000,USD,actual
+2024-12,Europe,Engineering & Product,compensation_expense,205000,USD,actual
+2024-12,Europe,Engineering & Product,marketing_expense,5200,USD,actual
+2024-12,Europe,Engineering & Product,technology_expense,72000,USD,actual
+2024-12,Europe,Engineering & Product,facilities_expense,13800,USD,actual
+2025-06,Europe,Engineering & Product,revenue,540000,USD,actual
+2025-06,Europe,Engineering & Product,cogs,162000,USD,actual
+2025-06,Europe,Engineering & Product,compensation_expense,232000,USD,actual
+2025-06,Europe,Engineering & Product,marketing_expense,5800,USD,actual
+2025-06,Europe,Engineering & Product,technology_expense,76000,USD,actual
+2025-06,Europe,Engineering & Product,facilities_expense,14800,USD,actual
+2026-06,Europe,Engineering & Product,revenue,580000,USD,actual
+2026-06,Europe,Engineering & Product,cogs,174000,USD,actual
+2026-06,Europe,Engineering & Product,compensation_expense,258000,USD,actual
+2026-06,Europe,Engineering & Product,marketing_expense,6200,USD,actual
+2026-06,Europe,Engineering & Product,technology_expense,80000,USD,actual
+2026-06,Europe,Engineering & Product,facilities_expense,15800,USD,actual
+2024-01,Asia Pacific,Sales & Marketing,revenue,480000,USD,actual
+2024-01,Asia Pacific,Sales & Marketing,cogs,192000,USD,actual
+2024-01,Asia Pacific,Sales & Marketing,compensation_expense,68000,USD,actual
+2024-01,Asia Pacific,Sales & Marketing,marketing_expense,55000,USD,actual
+2024-01,Asia Pacific,Sales & Marketing,technology_expense,9000,USD,actual
+2024-01,Asia Pacific,Sales & Marketing,facilities_expense,7500,USD,actual
+2024-01,Asia Pacific,Sales & Marketing,other_operating_expense,5000,USD,actual
+2024-01,Asia Pacific,Engineering & Product,revenue,360000,USD,actual
+2024-01,Asia Pacific,Engineering & Product,cogs,108000,USD,actual
+2024-01,Asia Pacific,Engineering & Product,compensation_expense,110000,USD,actual
+2024-01,Asia Pacific,Engineering & Product,marketing_expense,3000,USD,actual
+2024-01,Asia Pacific,Engineering & Product,technology_expense,48000,USD,actual
+2024-01,Asia Pacific,Engineering & Product,facilities_expense,9000,USD,actual
+2024-01,Asia Pacific,Engineering & Product,other_operating_expense,4200,USD,actual
+2025-06,Asia Pacific,Engineering & Product,revenue,400000,USD,actual
+2025-06,Asia Pacific,Engineering & Product,cogs,120000,USD,actual
+2025-06,Asia Pacific,Engineering & Product,compensation_expense,148000,USD,actual
+2025-06,Asia Pacific,Engineering & Product,marketing_expense,3500,USD,actual
+2025-06,Asia Pacific,Engineering & Product,technology_expense,55000,USD,actual
+2025-06,Asia Pacific,Engineering & Product,facilities_expense,10500,USD,actual
+2026-06,Asia Pacific,Engineering & Product,revenue,420000,USD,actual
+2026-06,Asia Pacific,Engineering & Product,cogs,126000,USD,actual
+2026-06,Asia Pacific,Engineering & Product,compensation_expense,165000,USD,actual
+2026-06,Asia Pacific,Engineering & Product,marketing_expense,3800,USD,actual
+2026-06,Asia Pacific,Engineering & Product,technology_expense,58000,USD,actual
+2026-06,Asia Pacific,Engineering & Product,facilities_expense,11200,USD,actual

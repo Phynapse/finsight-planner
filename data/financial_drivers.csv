@@ -1,0 +1,24 @@
+period,business_unit,department,driver_name,driver_value,driver_unit,scenario,assumption_source
+2024-01,North America,Sales & Marketing,customer_count,8500,accounts,baseline,Historical
+2024-01,North America,Sales & Marketing,average_revenue_per_customer,100,USD/account,baseline,Historical
+2024-01,North America,Sales & Marketing,churn_rate,0.02,percent,baseline,Historical
+2024-01,North America,Engineering & Product,headcount,125,people,baseline,HR
+2024-01,North America,Engineering & Product,average_compensation,1680,USD/person,baseline,HR
+2024-01,North America,Sales & Marketing,headcount,65,people,baseline,HR
+2024-01,North America,Sales & Marketing,average_compensation,1923,USD/person,baseline,HR
+2024-01,North America,Customer Success,headcount,48,people,baseline,HR
+2024-01,North America,Customer Success,average_compensation,1979,USD/person,baseline,HR
+2025-01,North America,Engineering & Product,headcount,145,people,baseline,HR
+2025-01,North America,Engineering & Product,average_compensation,2069,USD/person,baseline,HR
+2026-01,North America,Engineering & Product,headcount,165,people,baseline,HR
+2026-01,North America,Engineering & Product,average_compensation,2133,USD/person,baseline,HR
+2026-01,North America,Engineering & Product,headcount,175,people,downside,HR
+2026-01,North America,Engineering & Product,average_compensation,2288,USD/person,downside,HR
+2026-01,North America,Sales & Marketing,headcount,78,people,downside,HR
+2026-01,North America,Sales & Marketing,average_compensation,2115,USD/person,downside,HR
+2026-01,North America,Sales & Marketing,customer_count,7800,accounts,downside,Forecast
+2026-01,North America,Sales & Marketing,average_revenue_per_customer,95,USD/account,downside,Forecast
+2026-01,North America,Sales & Marketing,collection_period_days,75,days,downside,Treasury
+2026-01,North America,Sales & Marketing,collection_period_days,55,days,upside,Treasury
+2026-01,North America,Sales & Marketing,customer_count,9200,accounts,upside,Forecast
+2026-01,North America,Sales & Marketing,average_revenue_per_customer,110,USD/account,upside,Forecast

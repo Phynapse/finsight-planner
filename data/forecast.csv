@@ -1,0 +1,42 @@
+period,business_unit,department,financial_line,forecast_amount,forecast_version,currency
+2026-12,North America,Sales & Marketing,revenue,940000,FCST-Q4-2026,USD
+2026-12,North America,Sales & Marketing,cogs,376000,FCST-Q4-2026,USD
+2026-12,North America,Sales & Marketing,compensation_expense,168000,FCST-Q4-2026,USD
+2026-12,North America,Sales & Marketing,marketing_expense,99000,FCST-Q4-2026,USD
+2026-12,North America,Sales & Marketing,technology_expense,19500,FCST-Q4-2026,USD
+2026-12,North America,Sales & Marketing,facilities_expense,16000,FCST-Q4-2026,USD
+2026-12,North America,Sales & Marketing,other_operating_expense,10100,FCST-Q4-2026,USD
+2026-12,North America,Engineering & Product,revenue,780000,FCST-Q4-2026,USD
+2026-12,North America,Engineering & Product,cogs,234000,FCST-Q4-2026,USD
+2026-12,North America,Engineering & Product,compensation_expense,360000,FCST-Q4-2026,USD
+2026-12,North America,Engineering & Product,marketing_expense,10100,FCST-Q4-2026,USD
+2026-12,North America,Engineering & Product,technology_expense,129000,FCST-Q4-2026,USD
+2026-12,North America,Engineering & Product,facilities_expense,22000,FCST-Q4-2026,USD
+2026-12,North America,Engineering & Product,other_operating_expense,8200,FCST-Q4-2026,USD
+2027-03,North America,Sales & Marketing,revenue,950000,FCST-Q4-2026,USD
+2027-03,North America,Sales & Marketing,cogs,380000,FCST-Q4-2026,USD
+2027-03,North America,Sales & Marketing,compensation_expense,170000,FCST-Q4-2026,USD
+2027-03,North America,Sales & Marketing,marketing_expense,101000,FCST-Q4-2026,USD
+2027-03,North America,Sales & Marketing,technology_expense,19800,FCST-Q4-2026,USD
+2027-03,North America,Sales & Marketing,facilities_expense,16200,FCST-Q4-2026,USD
+2027-03,North America,Sales & Marketing,other_operating_expense,10200,FCST-Q4-2026,USD
+2027-03,North America,Engineering & Product,revenue,790000,FCST-Q4-2026,USD
+2027-03,North America,Engineering & Product,cogs,237000,FCST-Q4-2026,USD
+2027-03,North America,Engineering & Product,compensation_expense,368000,FCST-Q4-2026,USD
+2027-03,North America,Engineering & Product,marketing_expense,10400,FCST-Q4-2026,USD
+2027-03,North America,Engineering & Product,technology_expense,132000,FCST-Q4-2026,USD
+2027-03,North America,Engineering & Product,facilities_expense,22300,FCST-Q4-2026,USD
+2027-03,North America,Engineering & Product,other_operating_expense,8400,FCST-Q4-2026,USD
+2026-12,Europe,Sales & Marketing,revenue,680000,FCST-Q4-2026,USD
+2026-12,Europe,Sales & Marketing,cogs,272000,FCST-Q4-2026,USD
+2026-12,Europe,Sales & Marketing,compensation_expense,98000,FCST-Q4-2026,USD
+2026-12,Europe,Sales & Marketing,marketing_expense,75000,FCST-Q4-2026,USD
+2026-12,Europe,Engineering & Product,revenue,600000,FCST-Q4-2026,USD
+2026-12,Europe,Engineering & Product,cogs,180000,FCST-Q4-2026,USD
+2026-12,Europe,Engineering & Product,compensation_expense,265000,FCST-Q4-2026,USD
+2026-12,Europe,Engineering & Product,technology_expense,82000,FCST-Q4-2026,USD
+2027-03,Asia Pacific,Sales & Marketing,revenue,520000,FCST-Q4-2026,USD
+2027-03,Asia Pacific,Sales & Marketing,cogs,208000,FCST-Q4-2026,USD
+2027-03,Asia Pacific,Engineering & Product,revenue,440000,FCST-Q4-2026,USD
+2027-03,Asia Pacific,Engineering & Product,cogs,132000,FCST-Q4-2026,USD
+2027-03,Asia Pacific,Engineering & Product,compensation_expense,172000,FCST-Q4-2026,USD

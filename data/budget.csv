@@ -1,0 +1,62 @@
+period,business_unit,department,financial_line,budget_amount,currency,assumption_id
+2024-01,North America,Sales & Marketing,revenue,860000,USD,BUD-001
+2024-01,North America,Sales & Marketing,cogs,344000,USD,BUD-001
+2024-01,North America,Sales & Marketing,compensation_expense,123000,USD,BUD-002
+2024-01,North America,Sales & Marketing,marketing_expense,95000,USD,BUD-003
+2024-01,North America,Sales & Marketing,technology_expense,15000,USD,BUD-004
+2024-01,North America,Sales & Marketing,facilities_expense,12000,USD,BUD-005
+2024-01,North America,Sales & Marketing,other_operating_expense,8000,USD,BUD-006
+2024-01,North America,Engineering & Product,revenue,660000,USD,BUD-001
+2024-01,North America,Engineering & Product,cogs,198000,USD,BUD-001
+2024-01,North America,Engineering & Product,compensation_expense,200000,USD,BUD-002
+2024-01,North America,Engineering & Product,marketing_expense,5000,USD,BUD-003
+2024-01,North America,Engineering & Product,technology_expense,85000,USD,BUD-004
+2024-01,North America,Engineering & Product,facilities_expense,15000,USD,BUD-005
+2024-01,North America,Engineering & Product,other_operating_expense,7000,USD,BUD-006
+2024-01,North America,Customer Success,revenue,420000,USD,BUD-001
+2024-01,North America,Customer Success,cogs,126000,USD,BUD-001
+2024-01,North America,Customer Success,compensation_expense,93000,USD,BUD-002
+2024-01,North America,Customer Success,marketing_expense,8000,USD,BUD-003
+2024-01,North America,Customer Success,technology_expense,12000,USD,BUD-004
+2024-01,North America,Customer Success,facilities_expense,8000,USD,BUD-005
+2024-01,North America,Customer Success,other_operating_expense,5000,USD,BUD-006
+2024-06,North America,Engineering & Product,revenue,700000,USD,BUD-001
+2024-06,North America,Engineering & Product,cogs,210000,USD,BUD-001
+2024-06,North America,Engineering & Product,compensation_expense,220000,USD,BUD-002
+2024-06,North America,Engineering & Product,marketing_expense,6000,USD,BUD-003
+2024-06,North America,Engineering & Product,technology_expense,88000,USD,BUD-004
+2024-06,North America,Engineering & Product,facilities_expense,16000,USD,BUD-005
+2024-09,North America,Engineering & Product,revenue,740000,USD,BUD-001
+2024-09,North America,Engineering & Product,cogs,222000,USD,BUD-001
+2024-09,North America,Engineering & Product,compensation_expense,240000,USD,BUD-002
+2024-09,North America,Engineering & Product,marketing_expense,6800,USD,BUD-003
+2024-09,North America,Engineering & Product,technology_expense,94000,USD,BUD-004
+2024-09,North America,Engineering & Product,facilities_expense,17000,USD,BUD-005
+2024-12,North America,Engineering & Product,revenue,780000,USD,BUD-001
+2024-12,North America,Engineering & Product,cogs,234000,USD,BUD-001
+2024-12,North America,Engineering & Product,compensation_expense,255000,USD,BUD-002
+2024-12,North America,Engineering & Product,marketing_expense,7500,USD,BUD-003
+2024-12,North America,Engineering & Product,technology_expense,100000,USD,BUD-004
+2024-12,North America,Engineering & Product,facilities_expense,18000,USD,BUD-005
+2025-06,North America,Engineering & Product,revenue,800000,USD,BUD-001
+2025-06,North America,Engineering & Product,cogs,240000,USD,BUD-001
+2025-06,North America,Engineering & Product,compensation_expense,280000,USD,BUD-002
+2025-06,North America,Engineering & Product,marketing_expense,8000,USD,BUD-003
+2025-06,North America,Engineering & Product,technology_expense,108000,USD,BUD-004
+2025-06,North America,Engineering & Product,facilities_expense,19000,USD,BUD-005
+2026-06,North America,Engineering & Product,revenue,820000,USD,BUD-001
+2026-06,North America,Engineering & Product,cogs,246000,USD,BUD-001
+2026-06,North America,Engineering & Product,compensation_expense,310000,USD,BUD-002
+2026-06,North America,Engineering & Product,marketing_expense,9000,USD,BUD-003
+2026-06,North America,Engineering & Product,technology_expense,120000,USD,BUD-004
+2026-06,North America,Engineering & Product,facilities_expense,20500,USD,BUD-005
+2024-01,Europe,Engineering & Product,revenue,490000,USD,BUD-001
+2024-01,Europe,Engineering & Product,cogs,147000,USD,BUD-001
+2024-01,Europe,Engineering & Product,compensation_expense,148000,USD,BUD-002
+2024-01,Europe,Engineering & Product,technology_expense,65000,USD,BUD-004
+2025-06,Europe,Engineering & Product,revenue,580000,USD,BUD-001
+2025-06,Europe,Engineering & Product,cogs,174000,USD,BUD-001
+2025-06,Europe,Engineering & Product,compensation_expense,215000,USD,BUD-002
+2026-06,Asia Pacific,Engineering & Product,revenue,450000,USD,BUD-001
+2026-06,Asia Pacific,Engineering & Product,cogs,135000,USD,BUD-001
+2026-06,Asia Pacific,Engineering & Product,compensation_expense,155000,USD,BUD-002
